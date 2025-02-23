@@ -1,4 +1,8 @@
 # Spesifkasi Struktur dan Control Unit pada Atmega2560
+![image](https://github.com/user-attachments/assets/fb9e839d-f7bd-4eac-aacd-9af35899e4aa)
+
+ATmega2560 adalah mikrokontroler 8-bit yang berbasis arsitektur RISC AVR. Mikrokontroler ini biasanya digunakan pada Arduino Mega 2560. 
+
 ## Spesifikasi ATmega2560
 ![image](https://github.com/user-attachments/assets/7fad9678-aa6f-43d1-9420-01c6f0bf83a0)
 
